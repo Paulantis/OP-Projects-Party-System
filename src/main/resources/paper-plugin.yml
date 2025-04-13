@@ -1,0 +1,7 @@
+name: OPProjectspartySystem
+version: 1.0.0
+main: com.party.paulantis.oPProjectsPartySystem.OPProjectsPartySystem
+description: ---
+author: Paulantis
+website: https://discord.gg/RVvZn3vc
+api-version: '1.21.3'
